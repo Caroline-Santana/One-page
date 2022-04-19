@@ -1,0 +1,51 @@
+html{
+    scroll-behavior: smooth;
+}
+
+
+
+header{
+    position: fixed;
+    background-color:#000B;
+    height: 80px;
+    width: 100vw;
+    padding: 0 100px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.links-container{
+    display: flex;
+    gap: 16px;
+    justify-content: flex-end;  
+}
+.links-container a{
+    color: #fff;
+}
+section{
+    height: 100vh;
+
+}
+.home-container{
+    background-color: blueviolet;
+}
+.fpoo-container{
+    background-color: blue;
+}
+.lima-container{
+    background-color: gold;
+}
+.hare-container{
+    background-color: chartreuse;
+}
+.sop-container{
+    background-color: chocolate;
+}
+footer{
+    background-color: aquamarine;
+    height: 80px;
+}
+
+
+      
+ 
